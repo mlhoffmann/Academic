@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6cf1582-7976-4c3a-afca-78057923d5b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CNN Feature Selection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/CNN Detecção_v05-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anomaly_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Anomaly_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Article.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN Detecção_v01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Detecção_v01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN Detecção_v02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Detecção_v02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN Detecção_v05.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Detecção_v05.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN teste.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data2017.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaler_data" beforeDir="false" afterPath="$PROJECT_DIR$/scaler_data" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="7cd6c24c-4b6c-405d-bbc6-fff890051855">
+    <option name="files">
+      <option value="Test.ipynb" />
+      <option value="teste.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1hC1uhOrJJwM8JnZadyVohBtvFM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6cf1582-7976-4c3a-afca-78057923d5b2" name="Default Changelist" comment="" />
+      <created>1599500499483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599500499483</updated>
+      <workItem from="1599500513821" duration="167000" />
+      <workItem from="1599505231841" duration="1307000" />
+      <workItem from="1599506579046" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599506606759">
+      <screen x="1920" y="2" width="1920" height="1050" />
+    </state>
+    <state x="2334" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.2.1920.1050@1920.2.1920.1050" timestamp="1599506606759" />
+    <state x="2381" y="172" key="SettingsEditor" timestamp="1599506535874">
+      <screen x="1920" y="2" width="1920" height="1050" />
+    </state>
+    <state x="2381" y="172" key="SettingsEditor/0.0.1920.1050/1920.2.1920.1050@1920.2.1920.1050" timestamp="1599506535874" />
+    <state x="2543" y="229" key="search.everywhere.popup" timestamp="1599505419855">
+      <screen x="1920" y="2" width="1920" height="1050" />
+    </state>
+    <state x="2543" y="229" key="search.everywhere.popup/0.0.1920.1050/1920.2.1920.1050@1920.2.1920.1050" timestamp="1599505419855" />
+  </component>
+</project>
