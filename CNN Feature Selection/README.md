@@ -1,3 +1,2 @@
 # Academic
-Academic Projects
-Neste projeto estou selecionando quais variáveis do processo são responsáveis por falha em um compressor de uma planta petroquimica. 
+Model for failure analysis in the off-gas compressor of the Styrene reaction.
