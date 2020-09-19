@@ -20,22 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6cf1582-7976-4c3a-afca-78057923d5b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CNN Feature Selection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teste.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/CNN Detecção_v05-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anomaly_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Anomaly_model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Article.code-workspace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN Detecção_v01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Detecção_v01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN Detecção_v02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Detecção_v02.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN Detecção_v05.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Detecção_v05.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN teste.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data2017.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scaler_data" beforeDir="false" afterPath="$PROJECT_DIR$/scaler_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Process.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/process.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN Feature Selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Feature Selection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +40,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="JupyterTrust" id="7cd6c24c-4b6c-405d-bbc6-fff890051855">
-    <option name="files">
-      <option value="Test.ipynb" />
-      <option value="teste.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="7cd6c24c-4b6c-405d-bbc6-fff890051855" />
   <component name="ProjectId" id="1hC1uhOrJJwM8JnZadyVohBtvFM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mongo" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -80,6 +67,7 @@
       <workItem from="1599500513821" duration="167000" />
       <workItem from="1599505231841" duration="1307000" />
       <workItem from="1599506579046" duration="40000" />
+      <workItem from="1600545615102" duration="115000" />
     </task>
     <servers />
   </component>
@@ -98,11 +86,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599506606759">
-      <screen x="1920" y="2" width="1920" height="1050" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600545671323">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.2.1920.1050@0.0.1920.1050" timestamp="1600545671323" />
     <state x="2334" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.2.1920.1050@1920.2.1920.1050" timestamp="1599506606759" />
+    <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1600545724210">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="267" key="FileChooserDialogImpl/0.0.1920.1050/1920.2.1920.1050@0.0.1920.1050" timestamp="1600545724210" />
     <state x="2381" y="172" key="SettingsEditor" timestamp="1599506535874">
       <screen x="1920" y="2" width="1920" height="1050" />
     </state>

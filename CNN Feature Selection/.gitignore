@@ -1,0 +1,6 @@
+.ipynb_checkpoint/
+.vscode/
+Anomaly_model.h5
+scaler_data
+output.xlsx
+Data.xlsx
