@@ -1,6 +1,11 @@
 ipynb_checkpoint/*
-.vscode/*
+
 Anomaly_model.h5
 scaler_data
 output.xlsx
 Data.xlsx
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
