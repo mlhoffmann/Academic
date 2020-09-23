@@ -1,4 +1,4 @@
-ipynb_checkpoint/*
+ipynb_checkpoint/
 
 Anomaly_model.h5
 scaler_data
