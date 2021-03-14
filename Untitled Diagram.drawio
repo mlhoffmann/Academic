@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T21:47:54.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="m9UTfHfuPDDGD7-9f1DU" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T21:55:33.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ryMx6t6Joh4GdiRS1tHX" version="14.4.8" type="github">
   <diagram id="f5xDm-sZU2RgQFvWg1b2" name="Arquitetura">
-    <mxGraphModel dx="982" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,8 +118,8 @@
         <mxCell id="f1FKTkvxkl4B_QiiFOp4-25" value="Dickey-Fuller  test" style="text;whiteSpace=wrap;html=1;align=center;strokeColor=#3E4247;" parent="1" vertex="1">
           <mxGeometry x="706.83" y="551.12" width="120.17" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="f1FKTkvxkl4B_QiiFOp4-26" value="Data-driven approaches" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="929.9966259765625" y="629.1166259765624" width="148" height="28" as="geometry" />
+        <mxCell id="f1FKTkvxkl4B_QiiFOp4-26" value="Reliability of systems with data-driven approaches" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="901" y="616.12" width="178" height="28" as="geometry" />
         </mxCell>
         <mxCell id="f1FKTkvxkl4B_QiiFOp4-27" value="Feature importances" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="898.6666259765625" y="301.9566259765624" width="130" height="28" as="geometry" />
